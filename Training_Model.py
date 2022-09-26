@@ -1,7 +1,7 @@
 #link -> https://www.kaggle.com/code/pramod722445/face-recognition-eff
 import numpy as np
 import pandas as pd
-import tensorf low as tf
+import tensorflow as tf
 import os
 import cv2
 import matplotlib.pyplot as plt
